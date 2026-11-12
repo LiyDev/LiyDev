@@ -21,5 +21,5 @@ Confira meus repositórios para conhecer alguns dos projetos acadêmicos e pesso
 
 ### 📫 Contato
 
-- LinkedIn: [Meu LinkedIn](INSIRA_SEU_LINK)
+- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/lilian-emilly-92abb9291/)
 - E-mail: lilian.desenvolvedora@gmail.com
