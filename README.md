@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá! Eu sou a Lilian 👋
 
-<!--
-**LiyDev/LiyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software.
 
-Here are some ideas to get you started:
+💻 Tenho interesse em desenvolvimento de software e na construção de soluções práticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estudo e desenvolvo projetos utilizando Java, JavaScript, React e SQL, buscando aprimorar meus conhecimentos em programação, orientação a objetos e engenharia de software.
+
+Gosto de aprender na prática, explorar novas tecnologias e entender como transformar ideias em soluções funcionais.
+
+### 🛠️ Tecnologias e ferramentas
+
+- **Linguagens:** Java, JavaScript e C
+- **Front-end:** HTML5, CSS3 e React
+- **Banco de dados:** SQL
+- **Versionamento:** Git e GitHub
+
+### 📂 Projetos
+
+Confira meus repositórios para conhecer alguns dos projetos acadêmicos e pessoais que desenvolvi durante minha formação.
+
+### 📫 Contato
+
+- LinkedIn: [Meu LinkedIn](INSIRA_SEU_LINK)
+- E-mail: lilian.desenvolvedora@gmail.com
